@@ -91,6 +91,8 @@ Route::post('/drop', function () {
 		"yearterm" => $yearterm
 
 	);
+	
+	
 	foreach($params as $k => $v)
 	{
 		$postData .= $k . '='.$v.'&';
@@ -193,3 +195,4 @@ Route::get('/db', function () {
 Route::get('/welcome', function () {
 	return view('welcome');
 });
+
