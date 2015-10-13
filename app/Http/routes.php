@@ -2,7 +2,11 @@
 
 /*
 |--------------------------------------------------------------------------
+<<<<<<< HEAD
 | Application Routes aaaa
+=======
+| Application Routes df
+>>>>>>> e6b25ad52013bbddf6c69eb2ccafdf3a4ac85956
 |--------------------------------------------------------------------------
 |
 | Here is where you can register all of the routes for an application.
